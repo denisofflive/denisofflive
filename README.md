@@ -12,7 +12,7 @@
   <img title="Customized by Denis Denisov" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&color=18F77E&lines=Denis+Denisov;QA+Engineer">
 </p>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisofflive&show_icons=true&theme=dark) <img width="350" height="197" title="I'm watching you!" src="images/matrix-neo.gif"> 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisofflive&show_icons=true&theme=dark) <img width="310" height="197" title="I'm watching you!" src="images/matrix-neo.gif"> 
 
 <p align="left">
 <a href="https://komarev.com/ghpvc/?username=denisofflive&style=plastic&color=9152C0">
