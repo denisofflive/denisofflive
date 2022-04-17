@@ -9,7 +9,7 @@
   </br>
   
   <p align="center">
-  <img title="|Customized by Denis Denisov|" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&color=18F77E&lines=Denis+Denisov;QA+Engineer">
+  <img title="Customized by Denis Denisov" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&color=18F77E&lines=Denis+Denisov;QA+Engineer">
 </p>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisofflive)](https://github.com/denisofflive/github-readme-stats)
