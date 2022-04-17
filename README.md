@@ -53,3 +53,9 @@
 - [x] Степовой подход для описания Allure Step
 - [x] Различные файлы конфигураций для запуска тестов
 
+</p>
+<hr>
+<p align="center">
+  <img title="|Customized by denisofflive|" src="https://github.com/denisofflive/denisofflive/blob/main/images/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
