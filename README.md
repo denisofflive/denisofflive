@@ -14,7 +14,7 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisofflive&show_icons=true&theme=dark) <img width="300" height="197" title="I'm watching you!" src="images/matrix-neo.gif"> 
 
-<p align="right">
+<p align="left">
 <a href="https://komarev.com/ghpvc/?username=denisofflive&style=plastic&color=9152C0">
   <img src="https://komarev.com/ghpvc/?username=denisofflive&style=plastic&color=9152C0"/>
 </a>
