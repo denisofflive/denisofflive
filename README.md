@@ -24,8 +24,8 @@ ___
 Тестовые проекты:
 
 <a target="_blank" href="https://github.com/denisofflive/AlfaBankTests">Alfabank test</a></br></br>
-<a target="_blank" href="https://github.com/denisofflive/GithubTests">Github tests</a></br></br>
 <a target="_blank" href="https://github.com/denisofflive/ETSP-Registration-Test">ETSP registration test</a></br></br>
+<a target="_blank" href="https://github.com/denisofflive/GithubTests">Github tests</a></br></br>
 :heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы Альфабанка, регистрация нового пользователя транспортной компании ОМЕГА, а также поиск и проверка элементов на Github.</br></br>
 :triangular_flag_on_post: Что особенного:
 
