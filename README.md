@@ -20,7 +20,7 @@
 ___
 
 ## Тестирование UI
-![This is an image](/icons/python48.png)![This is an image](/icons/pycharm48.png)![This is an image](/icons/pytest48.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Allure_Report.png)</br></br>
+![This is an image](/icons/python48.png)![This is an image](/icons/pycharm48.png)![This is an image](/icons/pytest48.png)![This is an image](/icons/sql48.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Allure_Report.png)</br></br>
 Тестовые проекты:
 
 <a target="_blank" href="https://github.com/denisofflive/AlfaBankTests">Alfabank test</a></br></br>
