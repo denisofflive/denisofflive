@@ -25,5 +25,5 @@ ___
 
 <a target="_blank" href="https://github.com/denisofflive/UiSberTest">Sberbank UI Test</a></br></br>
 <a target="_blank" href="https://github.com/denisofflive/ApiSberTest">Sberbank REST API test</a></br></br>
-<a target="_blank" href="https://github.com/denisofflive/GithubTests">Github tests</a></br></br>
+<a target="_blank" href="https://github.com/denisofflive?tab=repositories">My Github Repositories</a></br></br>
 
