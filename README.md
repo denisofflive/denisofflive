@@ -19,18 +19,11 @@
   
 ___
 
-## Тестирование UI
-![This is an image](/icons/python48.png)![This is an image](/icons/pycharm48.png)![This is an image](/icons/pytest48.png)![This is an image](/icons/sql48.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Allure_Report.png)</br></br>
+## Тестирование UI, REST API, Database SQL
+![This is an image](/icons/python48.png)![This is an image](/icons/pycharm48.png)![This is an image](/icons/pytest48.png)![This is an image](/icons/sql48.png)![This is an image](/icons/jenkins48.png)![This is an image](/icons/Allure_Report.png)</br></br>
 Тестовые проекты:
 
-<a target="_blank" href="https://github.com/denisofflive/AlfaBankTests">Alfabank test</a></br></br>
-<a target="_blank" href="https://github.com/denisofflive/ETSP-Registration-Test">ETSP registration test</a></br></br>
+<a target="_blank" href="https://github.com/denisofflive/UiSberTest">Sberbank UI Test</a></br></br>
+<a target="_blank" href="https://github.com/denisofflive/ApiSberTest">Sberbank REST API test</a></br></br>
 <a target="_blank" href="https://github.com/denisofflive/GithubTests">Github tests</a></br></br>
-:heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы Альфабанка, регистрация нового пользователя транспортной компании ОМЕГА, а также поиск и проверка элементов на Github.</br></br>
-:triangular_flag_on_post: Что особенного:
 
-- [x] Тестпланы авто- и ручного тестирования
-- [x] Лямбда-подход для описания Allure Step
-- [x] Степовой подход для описания Allure Step
-- [x] Проверки элементов
-- [x] Различные файлы конфигураций для запуска тестов
